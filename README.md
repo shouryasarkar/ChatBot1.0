@@ -22,7 +22,7 @@ This project showcases the development of a conversational chatbot using the Mic
 * Configure API Key: Obtain an API key from Microsoft to access the DialoGPT API. Update the configuration in config.py with your API key.
 * Run the Application: Start the Flask application.
   ```python app.py```
-* Access the Chatbot: Open a web browser and navigate to http://localhost:5000 to interact with the chatbot.
+* Access the Chatbot: Open a web browser and navigate to ```http://localhost:5000``` to interact with the chatbot.
 
 # Contributions
 Contributions are welcome! Feel free to open issues, suggest improvements, or submit pull requests.
