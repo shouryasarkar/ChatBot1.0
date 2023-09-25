@@ -16,12 +16,12 @@ This project showcases the development of a conversational chatbot using the Mic
 
 # Getting Started
 * Clone the Repository: Clone this repository to your local machine.
-  '''git clone https://github.com/your-username/chatbot-dialoGPT-flask.git'''
+  ```git clone https://github.com/your-username/chatbot-dialoGPT-flask.git```
 * Set Up Dependencies: Install the required dependencies. Ensure you have Python and Flask installed.
-  '''pip install -r requirements.txt'''
+  ```pip install -r requirements.txt```
 * Configure API Key: Obtain an API key from Microsoft to access the DialoGPT API. Update the configuration in config.py with your API key.
 * Run the Application: Start the Flask application.
-  '''python app.py'''
+  ```python app.py```
 * Access the Chatbot: Open a web browser and navigate to http://localhost:5000 to interact with the chatbot.
 
 # Contributions
